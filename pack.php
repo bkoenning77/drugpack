@@ -5,9 +5,11 @@
 
 	$keys = explode("\t", $str0);
 
-	
+	while (! feof($fh)) {
+		$items = explode("\t", fgets($fh));
 
-
-
-
+		foreach ($keys as $value) {
+			
+		}
+	}
 ?>
