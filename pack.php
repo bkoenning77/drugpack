@@ -5,11 +5,7 @@
 
 	$keys = explode("\t", $str0);
 
-	foreach ($keys as $value) {
-		# code...
-		print($value);
-		
-	}
+	
 
 
 
