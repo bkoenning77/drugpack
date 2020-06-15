@@ -50,9 +50,6 @@
 					}
 					$item_array[$key] = $ndc_components[0] . "-" . $ndc_components[1] . "-" . $ndc_components[2];
 				}
-				//if (substr($value, 0, 1) == "0") {
-				//	$item_array[$key] = "0" . $value;
-				//}
 			}
 			elseif (($key == "STARTMARKETINGDATE" || $key == "ENDMARKETINGDATE") && $value != "\\N") {
 				$item_array[$key] = substr($value, 0, 4) . "-" . substr($value, 4, 2) . "-" . substr($value, 6, 2);
@@ -64,6 +61,8 @@
 				$item_array[$key] = "Yes";
 			}
 		}
+
+		$item_array['FULLNDC'] = str_replace("-", "", $item_array['NDCPACKAGECODE']);
 
 		$count = 0;
 		foreach ($item_array as $key => $value) {
