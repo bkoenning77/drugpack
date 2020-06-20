@@ -6,8 +6,6 @@
 
 	$final_string = "";
 
-
-
 	while (! feof($fh)) {
 		$items = explode("\t", fgets($fh));
 		$item_array = array();
@@ -60,18 +58,27 @@
 			elseif ($value == "Y") {
 				$item_array[$key] = "Yes";
 			}
+			elseif ($value == "I") {
+				$item_array[$key] = "Inactive";
+			}
+			else if ($value == "E") {
+				$item_array[$key] = "Expired";
+			}
 		}
 
 		$item_array['FULLNDC'] = str_replace("-", "", $item_array['NDCPACKAGECODE']);
+		$item_array['LABELERCODE'] = substr($item_array['FULLNDC'], 0, 5);
 
 		$count = 0;
 		foreach ($item_array as $key => $value) {
-			$line_string .= $value;
-			if ($count++ == count($item_array) - 1) {
-				$line_string .= "\n";
-			}
-			else {
-				$line_string .= "\t";
+			if ($key != 'PRODUCTID') {
+				$line_string .= $value;
+				if ($count++ == count($item_array) - 2) {
+					$line_string .= "\n";
+				}
+				else {
+					$line_string .= "\t";
+				}
 			}
 		}
 		$final_string .= $line_string;
