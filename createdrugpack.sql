@@ -10,4 +10,4 @@ create table drugpack
 		full_ndc	varchar(11) not null,
 		labeler_code	varchar(5) not null,
 		primary key (full_ndc)
-		) engine=InnoDB;
+	) Engine=InnoDB;
