@@ -15,20 +15,11 @@ create table drugtable
 		end_marketing_date date null,
 		marketing_category enum('NDA', 'BLA', 'NDA AUTHORIZED GENERIC', 'OTC MONOGRAPH NOT FINAL', 'ANDA', 'OTC MONOGRAPH FINAL', 'UNAPPROVED DRUG OTHER', 'UNAPPROVED DRUG FOR USE IN DRUG SHORTAGE', 'UNAPPROVED HOMEOPATHIC', 'UNAPPROVED MEDICAL GAS'),
 		application_number varchar(20) null,
+		labeler_name varchar(150) not null,
+		substance_name varchar(3500) null,
+		numerator_strength varchar(500) null,
+		units varchar(1600) null,
 		
-
-
-
-
-
-
-
-
-
-
-
-		
-
 
 
 		)Engine=InnoDB;

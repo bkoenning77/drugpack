@@ -1,0 +1,523 @@
+Radioactive Diagnostic Agent
+GLP-1 Receptor Agonist
+Interleukin-17A Antagonist
+Norepinephrine Reuptake Inhibitor
+Atypical Antipsychotic
+Serotonin Reuptake Inhibitor
+Serotonin and Norepinephrine Reuptake Inhibitor
+Janus Kinase Inhibitor
+Estrogen Agonist/Antagonist
+Phosphodiesterase 5 Inhibitor
+Kinase Inhibitor
+P2Y12 Platelet Inhibitor
+Antihypoglycemic Agent
+Gastrointestinal Motility Inhibitor
+Nucleoside Metabolic Inhibitor
+Insulin Analog
+Folate Analog Metabolic Inhibitor
+Vascular Endothelial Growth Factor Receptor 2 Antagonist
+Epidermal Growth Factor Receptor Antagonist
+Parathyroid Hormone Analog
+Insulin
+Hepatitis C Virus NS5A Inhibitor
+Corticosteroid
+Selective T Cell Costimulation Blocker
+Antimetabolite
+Factor Xa Inhibitor
+Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+Selective T Cell Costimulation Modulator
+SLAMF7-directed Immunostimulatory Antibody
+CTLA-4-directed Blocking Antibody
+Monobactam Antibacterial
+Protease Inhibitor
+Cytochrome P450 3A Inhibitor
+Programmed Death Receptor-1 Blocking Antibody
+HMG-CoA Reductase Inhibitor
+Cytomegalovirus Nucleoside Analog DNA Polymerase Inhibitor
+Nucleoside Analog Antiviral
+Benzodiazepine
+Bisphosphonate
+Antimetabolite Immunosuppressant
+Interferon alpha
+Inactivated Pneumococcal Vaccine
+Orexin Receptor Antagonist
+Angiotensin Converting Enzyme Inhibitor
+Antiparasitic
+Pediculicide
+5-alpha Reductase Inhibitor
+Dipeptidyl Peptidase 4 Inhibitor
+Biguanide
+Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor
+Serotonin-1b and Serotonin-1d Receptor Agonist
+Vitamin D
+Substance P/Neurokinin-1 Receptor Antagonist
+Histone Deacetylase Inhibitor
+Angiotensin 2 Receptor Blocker
+Thiazide Diuretic
+Leukotriene Receptor Antagonist
+Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor
+Hepatitis C Virus NS3/4A Protease Inhibitor
+Cytomegalovirus DNA Terminase Complex Inhibitor
+Penem Antibacterial
+Renal Dehydropeptidase Inhibitor
+Echinocandin Antifungal
+Aromatic Amino Acid
+Inactivated Human Papillomavirus Vaccine
+Live Rotavirus Vaccine
+Inactivated Hepatitis B Virus Vaccine
+Inactivated Hepatitis A Virus Vaccine
+Live Attenuated Measles Virus Vaccine
+Live Attenuated Mumps Virus Vaccine
+Live Attenuated Rubella Virus Vaccine
+Live Attenuated Varicella Zoster Virus Vaccine
+Live Attenuated Herpes Zoster Virus Vaccine
+Tumor Necrosis Factor Blocker
+Inactivated Haemophilus Influenzae B Vaccine
+Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor
+HER2/neu Receptor Antagonist
+alpha-Adrenergic Blocker
+beta-Adrenergic Blocker
+Potassium-sparing Diuretic
+Nonergot Dopamine Agonist
+CD22-directed Immunoconjugate
+Proton Pump Inhibitor
+mTOR Inhibitor Immunosuppressant
+Estrogen
+Antimycobacterial
+CD33-directed Immunoconjugate
+Tetracycline-class Antibacterial
+Progestin
+Androgen
+Lincosamide Antibacterial
+Bile Acid Sequestrant
+Sulfonylurea
+Prostaglandin Analog
+Prostaglandin E1 Agonist
+Antiarrhythmic
+Cholinergic Muscarinic Antagonist
+Oxazolidinone Antibacterial
+alpha-Glucosidase Inhibitor
+Anthracycline Topoisomerase Inhibitor
+Cholinergic Nicotinic Agonist
+Immunoglobulin G
+Topoisomerase Inhibitor
+Aromatase Inhibitor
+Aminosalicylate
+Alkylating Drug
+Antifibrinolytic Agent
+Rifamycin Antimycobacterial
+Cytoprotective Agent
+Radiographic Contrast Agent
+Osmotic Laxative
+Retinoid
+Aminoglycoside Antibacterial
+Sulfonamide Antibacterial
+Acetylcholine Release Inhibitor
+Nonsteroidal Anti-inflammatory Drug
+Cyclooxygenase Inhibitor
+Quinolone Antimicrobial
+Sulfone
+Histamine-1 Receptor Antagonist
+Antiprotozoal
+Decarboxylase Inhibitor
+Vasoconstrictor
+Calcineurin Inhibitor Immunosuppressant
+Opioid Agonist
+Barbiturate
+Platelet Aggregation Inhibitor
+Central Nervous System Stimulant
+Methylxanthine
+Parenteral Iron Replacement
+Phosphate Binder
+Bile Acid
+Progesterone
+Polymyxin-class Antibacterial
+Dihydrofolate Reductase Inhibitor Antibacterial
+Mast Cell Stabilizer
+alpha-Adrenergic Agonist
+Adrenergic Receptor Agonist
+Histamine-1 Receptor Inhibitor
+Antimalarial
+gamma-Aminobutyric Acid-ergic Agonist
+Vascular Endothelial Growth Factor Inhibitor
+Leukocyte Growth Factor
+Hematopoietic Stem Cell Mobilizer
+PCSK9 Inhibitor
+Interleukin-6 Receptor Antagonist
+Interleukin-4 Receptor alpha Antagonist
+Antidiarrheal
+Anticholinergic
+Gonadotropin Releasing Hormone Receptor Agonist
+Aldosterone Antagonist
+Prostaglandin E1 Analog
+Nitroimidazole Antimicrobial
+Calcium Channel Blocker
+RNA Synthetase Inhibitor Antibacterial
+Anti-epileptic Agent
+Muscle Relaxant
+Loop Diuretic
+Antirheumatic Agent
+Oxidation-Reduction Agent
+Potassium Salt
+Penicillin-class Antibacterial
+beta Lactamase Inhibitor
+Azole Antifungal
+Cannabinoid
+Gonadotropin Releasing Hormone Antagonist
+Gonadotropin
+Live Attenuated Bacillus Calmette-Guerin Vaccine
+Live Attenuated Bacillus Calmette-Guerin Immunotherapy
+Factor VIII Activator
+Vasopressin Analog
+Human Serum Albumin
+Vitamin D3 Analog
+Mood Stabilizer
+Phosphodiesterase 3 Inhibitor
+Macrolide Antimicrobial
+Cardiac Glycoside
+Serotonin-3 Receptor Antagonist
+gamma-Aminobutyric Acid A Receptor Agonist
+Blood Coagulation Factor
+Cholinesterase Inhibitor
+Dihydropyridine Calcium Channel Blocker
+Partial Opioid Agonist
+Opioid Antagonist
+Tricyclic Antidepressant
+Cholinergic Receptor Agonist
+Vitamin D2 Analog
+Aldehyde Dehydrogenase Inhibitor
+Amphetamine Anorectic
+Xanthine Oxidase Inhibitor
+Nucleoside Analog Antifungal
+Vesicular Monoamine Transporter 2 Inhibitor
+Endothelin Receptor Antagonist
+Ergot Derivative
+Opioid Agonist/Antagonist
+Amide Local Anesthetic
+Folate Analog
+Vitamin K Antagonist
+Diagnostic Dye
+Carbonic Anhydrase Inhibitor
+alpha-1 Adrenergic Agonist
+Polyene Antimicrobial
+Ester Local Anesthetic
+Calculi Dissolution Agent
+Rifamycin Antibacterial
+Anti-coagulant
+Unfractionated Heparin
+Hydrolytic Lysosomal Glucocerebroside-specific Enzyme
+Non-narcotic Antitussive
+Low Molecular Weight Heparin
+CD20-directed Cytolytic Antibody
+Poly(ADP-Ribose) Polymerase Inhibitor
+Hedgehog Pathway Inhibitor
+Partial Cholinergic Nicotinic Agonist
+Tetracycline-class Drug
+Human Immunoglobulin G
+Erythropoiesis-stimulating Agent
+Antihistamine
+Monoamine Oxidase Inhibitor
+Nitrate Vasodilator
+Peroxisome Proliferator Receptor alpha Agonist
+BCL-2 Inhibitor
+Surfactant
+Nicotinic Acid
+l-Thyroxine
+Nondepolarizing Neuromuscular Blocker
+General Anesthetic
+Microtubule Inhibitor
+Somatostatin Analog
+Catechol-O-Methyltransferase Inhibitor
+Interleukin-2 Receptor Blocking Antibody
+Glinide
+Iron Chelator
+Sphingosine 1-phosphate Receptor Modulator
+Neprilysin Inhibitor
+Thrombopoietin Receptor Agonist
+CD19-directed Chimeric Antigen Receptor
+Genetically-modified Autologous T Cells
+Direct Thrombin Inhibitor
+Acetylcholine Releasing Agent
+beta2-Adrenergic Agonist
+Polyene Antifungal
+Cephalosporin Antibacterial
+Cytochrome P450 17A1 Inhibitor
+Dopamine-2 Receptor Antagonist
+Aluminum Complex
+Bradykinin B2 Receptor Antagonist
+Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor
+Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor
+Herpesvirus Nucleoside Analog DNA Polymerase Inhibitor
+Omega-3 Fatty Acid
+Central alpha-2 Adrenergic Agonist
+beta-Adrenergic Agonist
+Catecholamine
+Thiazolidinedione
+Peroxisome Proliferator Receptor gamma Agonist
+Histamine-2 Receptor Antagonist
+Vitamin D Analog
+Allylamine Antifungal
+Nitrofuran Antibacterial
+Anthelmintic
+Tubulin Inhibiting Agent
+Influenza A M2 Protein Inhibitor
+Skeletal Muscle Relaxant
+Aminoketone
+Typical Antipsychotic
+Phenothiazine
+N-methyl-D-aspartate Receptor Antagonist
+Sulfonamide Antimicrobial
+Glycopeptide Antibacterial
+Ergotamine Derivative
+Lipopeptide Antibacterial
+Platinum-based Drug
+Purine Antimetabolite
+Vitamin B12
+Benzodiazepine Antagonist
+Oxytocic
+Sympathomimetic-like Agent
+Recombinant Human Growth Hormone
+Platelet-reducing Agent
+Prostacycline Vasodilator
+Neuraminidase Inhibitor
+Interleukin-5 Antagonist
+Vitamin B6 Analog
+Vitamin C
+Reducing and Complexing Thiol
+Thiazide-like Diuretic
+Thyroid Hormone Synthesis Inhibitor
+Sympathomimetic Amine Anorectic
+Cytochrome P450 2D6 Inhibitor
+Interleukin-17 Receptor A Antagonist
+Nitrogen Binding Agent
+Monoamine Oxidase Type B Inhibitor
+Psoralen
+Photoactivated Radical Generator
+Vitamin K
+Warfarin Reversal Agent
+Metal Chelator
+Vasodilator
+Photoenhancer
+Non-Standardized Food Allergenic Extract
+Non-Standardized Plant Allergenic Extract
+Non-Standardized Fungal Allergenic Extract
+Skin Test Antigen
+Tuberculosis Skin Test
+Live Vaccinia Virus Vaccine
+Macrolide
+4-Hydroxyphenyl-Pyruvate Dioxygenase Inhibitor
+Non-Standardized Chemical Allergen
+Amino Acid
+Plasma Volume Expander
+Osmotic Diuretic
+Lipid Emulsion
+Non-Standardized Pollen Allergenic Extract
+Standardized Pollen Allergenic Extract
+Standardized Animal Skin Allergenic Extract
+Standardized Insect Allergenic Extract
+Non-Standardized Animal Skin Allergenic Extract
+Non-Standardized Plant Fiber Allergenic Extract
+Non-Standardized Insect Allergenic Extract
+Non-Standardized Insect Venom Allergenic Extract
+Non-Standardized Feather Allergenic Extract
+Standardized Animal Hair Allergenic Extract
+Cholecystokinin Analog
+Paramagnetic Contrast Agent
+Gadolinium-based Contrast Agent
+Melanin Synthesis Inhibitor
+Phosphodiesterase 4 Inhibitor
+Estrogen Receptor Antagonist
+Interleukin-5 Receptor alpha-directed Cytolytic Antibody
+Programmed Death Ligand-1 Blocker
+Sodium-Glucose Cotransporter 2 Inhibitor
+Amylin Analog
+Standardized Chemical Allergen
+Human Blood Coagulation Factor
+Potassium Channel Blocker
+Benzothiazole
+Benzylamine Antifungal
+Calcium-sensing Receptor Agonist
+Cystine Depleting Agent
+Local Anesthetic
+Contrast Agent for Ultrasound Imaging
+Adenosine Receptor Agonist
+Dopaminergic Agonist
+Antidote
+Antidote for Acetaminophen Overdose
+Mucolytic
+Copper Absorption Inhibitor
+Depolarizing Neuromuscular Blocker
+Guanylate Cyclase-C Agonist
+Androgen Receptor Inhibitor
+beta3-Adrenergic Agonist
+Lipid-based Polyene Antifungal
+Pyrethroid
+Arteriolar Vasodilator
+Carnitine Analog
+Serotonin-4 Receptor Antagonist
+Cholinergic Muscarinic Agonist
+Uncompetitive N-methyl-D-aspartate Receptor Antagonist
+Sigma-1 Agonist
+Adrenocorticotropic Hormone
+Endoglycosidase
+Partial Opioid Agonist/Antagonist
+Melatonin Receptor Agonist
+Tetracycline-class Antimicrobial
+Dietary Cholesterol Absorption Inhibitor
+Humanized Monoclonal Antibody Fragment
+Vitamin A
+Antiemetic
+Blood Viscosity Reducer
+Respiratory Stimulant
+Calcium
+Copper-containing Intrauterine Device
+Vinca Alkaloid
+Autonomic Ganglionic Blocker
+Norepinephrine Releasing Agent
+Human alpha-1 Proteinase Inhibitor
+5-Lipoxygenase Inhibitor
+Glucosylceramide Synthase Inhibitor
+Oxaborole Antifungal
+Cholinesterase Reactivator
+Inhalation Diagnostic Agent
+Inactivated Clostridium Tetani Vaccine
+Inactivated Corynebacterium Diphtheriae Vaccine
+Human Immunoglobulin
+Pleuromutilin Antibacterial
+Standardized Insect Venom Allergenic Extract
+N-type Calcium Channel Antagonist
+Demulcent
+Proteolytic Enzyme
+Catecholamine Synthesis Inhibitor
+Complement Inhibitor
+Hydrolytic Lysosomal Cholesteryl Ester-specific Enzyme
+Hydrolytic Lysosomal Triacylglycerol-specific Enzyme
+Tissue-nonspecific Alkaline Phosphatase
+Anti-anginal
+Autologous Cellular Immunotherapy
+Provitamin D2 Compound
+Chloride Channel Activator
+l-Triiodothyronine
+Actinomycin
+Progestin-containing Intrauterine Device
+Human C1 Esterase Inhibitor
+Inactivated Japanese Encephalitis Virus Vaccine
+Progestin Antagonist
+Non-Standardized Animal Hair Allergenic Extract
+Non-Standardized Animal Dander Allergenic Extract
+Dihydrofolate Reductase Inhibitor Antimalarial
+Proteasome Inhibitor
+Inactivated Influenza B Virus Vaccine
+Recombinant Human Interferon beta
+Sclerosing Agent
+Interleukin-23 Antagonist
+Plasma Kallikrein Inhibitor
+Inactivated Bordetella Pertussis Vaccine
+Inactivated Poliovirus Vaccine
+Inactivated Meningococcal Vaccine
+Inactivated Salmonella Typhi Vaccine
+Live Attenuated Yellow Fever Virus Vaccine
+B Lymphocyte Stimulator-specific Inhibitor
+Anthrax Protective Antigen-directed Antibody
+Non-Standardized House Dust Allergenic Extract
+CCR5 Co-receptor Antagonist
+Calcitonin
+Renin Inhibitor
+Methylated Sulfonamide Antibacterial
+Live Attenuated Salmonella Typhi Vaccine
+Progesterone Agonist/Antagonist
+Cell Death Inducer
+Anti-IgE
+Recombinant Human Deoxyribonuclease 1
+Pyridone
+Polymerase Acidic Endonuclease Inhibitor
+Radioactive alpha-Particle Emitting Therapeutic Agent
+Soluble Guanylate Cyclase Stimulator
+Glycosaminoglycan
+Collagen-specific Enzyme
+Human Platelet-derived Growth Factor
+Antivenin
+Carboxypeptidase
+CD30-directed Immunoconjugate
+Cystic Fibrosis Transmembrane Conductance Regulator Potentiator
+Heparin Reversal Agent
+Macrolide Antibacterial
+Carbamoyl Phosphate Synthetase 1 Activator
+Methylating Agent
+Potassium Binder
+Lymphocyte Function-Associated Antigen-1 Antagonist
+Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme
+Lead Chelator
+RANK Ligand Inhibitor
+Hyperpolarization-activated Cyclic Nucleotide-gated Channel Blocker
+Stimulant Laxative
+Interleukin-12 Antagonist
+Interleukin-6 Antagonist
+CD38-directed Cytolytic Antibody
+Asparagine-specific Enzyme
+Lipoglycopeptide Antibacterial
+Decorporation Agent
+Thyroid Stimulating Hormone
+Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme
+Hydrolytic Lysosomal Glycogen-specific Enzyme
+CD52-directed Cytolytic Antibody
+Pyrimidine Synthesis Inhibitor
+Bismuth
+Vasopressin V2 Receptor Antagonist
+Thalidomide Analog
+Isocitrate Dehydrogenase 2 Inhibitor
+Diarylquinoline Antimycobacterial
+Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody
+Antisense Oligonucleotide
+Cytolytic Agent
+Intestinal Lipase Inhibitor
+Streptogramin Antibacterial
+mu-Opioid Receptor Agonist
+Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor
+Noncompetitive AMPA Glutamate Receptor Antagonist
+Serotonin-2c Receptor Agonist
+Amphenicol-class Antibacterial
+Integrin Receptor Antagonist
+Survival Motor Neuron-2-directed RNA Interaction
+Live Attenuated Bacillus Anthracis Vaccine
+Thymidine Phosphorylase Inhibitor
+Radioactive Therapeutic Agent
+Lymphocyte Growth Factor
+Natriuretic Peptide
+Prostacycline
+Prostacyclin Receptor Agonist
+Vasopressin Receptor Antagonist
+Glycolipid Disialoganglioside-directed Antibody
+Mucocutaneous Epithelial Cell Growth Factor
+Interleukin-1 Receptor Antagonist
+Interferon gamma Blocker
+Sucrose-specific Enzyme
+Phenylalanine Metabolizing Enzyme
+Phenylalanine Hydroxylase Activator
+Central Nervous System Depressant
+GLP-2 Analog
+Parathyroid Hormone
+Human Antihemophilic Factor
+Antileishmanial
+Pyrimidine Analog
+Farnesoid X Receptor Agonist
+Lysosomal beta Glucuronidase
+Autologous Cultured Cell
+Tryptophan Hydroxylase Inhibitor
+Protease-activated Receptor-1 Antagonist
+Parathyroid Hormone-Related Peptide Analog
+Porphyrin Precursor
+Rho Kinase Inhibitor
+Urate Transporter 1 Inhibitor
+Fluoroquinolone Antibacterial
+Growth Hormone Secretagogue Receptor Agonist
+Transthyretin-directed RNA Interaction
+CD123 Interaction
+Cytotoxin
+Uric Acid-specific Enzyme
+Interferon gamma
+Pyrophosphate Analog DNA Polymerase Inhibitor
+Adrenal Steroid Synthesis Inhibitor
+Microsomal Triglyceride Transfer Protein Inhibitor
+Leptin Analog
+Allogeneic Cord Blood Hematopoietic Progenitor Cell Therapy

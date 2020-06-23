@@ -1,12 +1,10 @@
 <?php
 
-	$string = "brandon's";
+	$match = '/\\[EPC\\]/';
 
-	print($string);
-	print("\n");
+	$string = "[EPCBrandon";
 
-	$string = str_replace("'", "{", $string);
-
-	print($string);
-	print("\n");
+	if (preg_match($match, $string)) {
+		print("pattern found");
+	}
 ?>

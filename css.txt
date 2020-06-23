@@ -1,0 +1,207 @@
+Glucagon-Like Peptide 1
+Parathyroid Hormone
+Insulin
+Urea
+Recombinant Fusion Proteins
+Monoclonal
+Monobactams
+Benzodiazepines
+Diphosphonates
+Interferon-alpha
+Inactivated
+Pneumococcal Vaccines
+Conjugate
+Biguanides
+Vitamin D
+Thiazides
+Carbapenems
+Lipopeptides
+Aromatic
+Papillomavirus Vaccines
+Rotavirus Vaccines
+Unattenuated
+Hepatitis B Vaccines
+Hepatitis A Vaccines
+Attenuated
+Measles Vaccine
+Mumps Vaccine
+Rubella Vaccine
+Chickenpox Vaccine
+Herpes Zoster Vaccine
+Haemophilus Vaccines
+Nucleosides
+gamma-Cyclodextrins
+Immunoconjugates
+Conjugated (USP)
+Tetracyclines
+Progesterone Congeners
+Androstanes
+Lincosamides
+Estradiol Congeners
+Sulfonylurea Compounds
+Prostaglandins
+Oxazolidinones
+Anthracyclines
+Nicotine
+Immunoglobulins
+Aminosalicylic Acids
+Estradiol
+Nitrogen Mustard Compounds
+Rifamycins
+Retinoids
+Aminoglycosides
+Sulfonamides
+Non-Steroidal
+Quinolones
+Sulfones
+Imidazolines
+Barbiturates
+Xanthines
+Iron
+Bile Acids and Salts
+Progesterone
+Polymyxins
+Pyridines
+Granulocyte Colony-Stimulating Factor
+Granulocyte-Macrophage Colony-Stimulating Factor
+Synthetic
+Nitroimidazoles
+Potassium Compounds
+Penicillins
+Azoles
+Cannabinoids
+Gonadotropins
+BCG Vaccine
+Vasopressins
+Cholecalciferol
+Macrolides
+Cardiac Glycosides
+Calcium
+Divalent
+Dihydropyridines
+Ergocalciferols
+Amphetamines
+Ergolines
+Amides
+Folic Acid
+Polyenes
+Esters
+Heparin
+Glucosylceramidase
+Low-Molecular-Weight
+Erythropoietin
+Nitrates
+PPAR alpha
+Nicotinic Acids
+Thyroxine
+Cephalosporins
+Organometallic Compounds
+Omega-3
+Catecholamines
+PPAR gamma
+Thiazolidinediones
+Allylamine
+Nitrofurans
+Phenothiazines
+Glycopeptides
+Deoxyuridine
+Ergotamines
+Purines
+Vitamin B 12
+Oxytocin
+Human Growth Hormone
+Prostaglandins I
+Ascorbic Acid
+N-substituted Glycines
+Psoralens
+Vitamin K
+Allergens
+Dietary Proteins
+Plant Proteins
+Fungal Proteins
+Bacterial
+Smallpox Vaccine
+Glycerol
+Amino Acids
+Starch
+Lipids
+Pollen
+Animal Fur
+Insect Proteins
+Dermatophagoides
+Seed Storage Proteins
+Ant Venoms
+Feathers
+Dander
+Salivary Proteins and Peptides
+Vegetable Proteins
+Caseins
+Food Additives
+Dietary
+Milk Proteins
+Cholecystokinin
+Blood Coagulation Factors
+Benzothiazoles
+Benzylamines
+Pyrethrins
+Carnitine
+Adrenocorticotropic Hormone
+Glycoside Hydrolases
+Humanized
+Vitamin A
+Copper
+Vinca Alkaloids
+Boron Compounds
+Tetanus Toxoid
+Diphtheria Toxoid
+Diterpenes
+Bee Venoms
+Silk
+Peptide Hydrolases
+Sterol Esterase
+Alkaline Phosphatase
+Mononuclear
+Triiodothyronine
+Japanese Encephalitis Vaccines
+Influenza Vaccines
+Interferon-beta
+Recombinant Proteins
+Pertussis Vaccine
+Poliovirus Vaccines
+Meningococcal Vaccines
+Typhoid
+Yellow Fever Vaccine
+House Dust
+Calcitonin
+Deoxyribonuclease I
+Pyridones
+Antibodies
+Glycosaminoglycans
+Platelet-Derived Growth Factor
+Carboxypeptidases
+Wasp Venoms
+alpha-Glucosidases
+Asparaginase
+Thyrotropin
+Bismuth
+Fungal
+Diarylquinolines
+Antisense
+Streptogramins
+Interleukin-2
+Quaternary Ammonium Compounds
+Natriuretic Peptides
+Antivenins
+Fibroblast Growth Factor 7
+Phenylalanine Ammonia-Lyase
+Antitoxins
+Factor VIII
+von Willebrand Factor
+Chondrocytes
+Parathyroid Hormone-Related Protein
+Porphyrinogens
+Fluoroquinolones
+Cytotoxins
+Urate Oxidase
+Interferon-gamma
+Hematopoietic Stem Cells
