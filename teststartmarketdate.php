@@ -10,21 +10,24 @@
 		*/
 
 	$fh = fopen("drugfinal.txt", 'r');
-
+	$nullCount = 0;
+	$lineCount = 0;
 	while (! feof($fh)) {
 		$match = '/\d{4}-\d{2}-\d{2}/';
+		$lineCount++;
 
-
-		$startDate = trim(explode("\t", fgets($fh))[7]);
+		$startDate = trim(explode("\t", fgets($fh))[18]);
 		//print($startDate);
 
 		if ($startDate == "\\N" || !preg_match($match, $startDate)) {
-			print("Null value found");
+			print("Null value found at line ");
+			print($lineCount);
+			$nullCount++;
 		}
 	}
 
 
 	fclose($fh);
 
-
+	print($nullCount);
 ?>

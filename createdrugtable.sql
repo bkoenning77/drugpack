@@ -19,7 +19,8 @@ create table drugtable
 		substance_name varchar(3500) null,
 		numerator_strength varchar(500) null,
 		units varchar(1600) null,
-		
-
-
-		)Engine=InnoDB;
+		dea_schedule enum('CV','CIV','CIII','CII', null);
+		ndc_exclude_flag enum('Yes', 'No', 'Expired', 'Inactive'),
+		certified_through date null,
+		ndc9 varchar(9) not null
+	)Engine=InnoDB;
